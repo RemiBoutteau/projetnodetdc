@@ -1,0 +1,11 @@
+{
+  "name": "projetnode",
+  "version": "1.0.0",
+  "description": "Mon premier projet avec node et git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rémi Boutteau",
+  "license": "ISC"
+}
